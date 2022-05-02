@@ -1,1 +1,1 @@
-# The `README.md` is trivial, and is left as an exercise to the reader.
+# The derivation of `README.md` from the GitHub profile relies on intricate lemmas and relations, but their application is straightforward. We refer the curious reader to Hepak et al (2022) for a thorough and rigorous exploration of the strategy and related proofs.
