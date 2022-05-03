@@ -1,1 +1,1 @@
-# The derivation of `README.md` from the GitHub profile relies on a straightforward application of Lemma 6.9, the proof of which is intricate but elegant. We refer the curious reader to Hepak et al (2022) for a thorough and rigorous exploration of the overall strategy.
+# The derivation of `README.md` from the GitHub profile relies on a straightforward application of Lemma 6.9, the proof of which is intricate but elegant. We refer the curious reader to Hepak _et al._ (2022) for a thorough and rigorous exploration of the overall strategy.
